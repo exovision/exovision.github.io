@@ -88,7 +88,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Request a free consulting call
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Tell us your problem and we are going to propose a solution based in our
+      expertise.
     actions:
       - label: Get Started
         url: /signup
