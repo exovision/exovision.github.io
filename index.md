@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/smart-celery.png
+    image: images/original concept illustration concept flat.png
   - section_id: features
     type: section_features
     background: gray
