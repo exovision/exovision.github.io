@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/melodic-mint.png
+    image: images/super-sage.png
   - section_id: features
     type: section_features
     background: gray
