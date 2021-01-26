@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/fabulous-zebra.png
+    image: images/11_thumb.jpg
   - section_id: features
     type: section_features
     background: gray
