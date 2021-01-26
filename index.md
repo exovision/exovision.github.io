@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: See outside the box
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      Exovision will help you outperform humans using Computer Vision solutions.
     actions:
       - label: Learn More
         url: /features
