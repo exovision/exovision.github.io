@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/—Pngtree—original concept illustration concept flat_4188232.png
+    image: images/green-lavender.png
   - section_id: features
     type: section_features
     background: gray
