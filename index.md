@@ -11,7 +11,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/unique-daffodil.png
   - section_id: features
     type: section_features
     background: gray
