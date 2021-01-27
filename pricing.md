@@ -10,11 +10,11 @@ sections:
       - title: Proof of Concept
         subtitle: Test if your idea is feasible
         price: $ 99 / hour
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Have a PoC in a few days
+          *   Test your idea before invest a huge budget
+          *   Necessary iterations until is as you like
+          *   Cloud based delivery
         actions:
           - label: Order Now
             url: /signup
