@@ -39,7 +39,7 @@ sections:
           *   Use state-of-art technology
           *   Have an entire team of ML Engineers and POs
         actions:
-          - label: Order Now
+          - label: Get in contact now
             url: /signup
             style: secondary
 layout: landing
