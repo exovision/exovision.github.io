@@ -34,11 +34,10 @@ sections:
       - title: Full Custom
         subtitle: Build a solution from scratch
         price: Request a quotation
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   A solution create from scratch 
+          *   Use state-of-art technology
+          *   Have an entire team of ML Engineers and POs
         actions:
           - label: Order Now
             url: /signup
