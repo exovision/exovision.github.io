@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Integrated Solution
-        subtitle: For medium-sized businesses
+        subtitle: Enhance your product with AI
         price: $ 80 / hour
         details: |-
           * Curabitur non nunc mollis
