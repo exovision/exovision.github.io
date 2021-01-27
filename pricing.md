@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Full Custom
         subtitle: For very large businesses
-        price: $149/m
+        price: Request a quotation
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
