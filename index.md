@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/feature2.png
+        image: images/image sharing illustration concept flat_4188239.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
