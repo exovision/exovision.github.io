@@ -16,7 +16,7 @@ sections:
           *   Necessary iterations until is as you like
           *   Cloud-based delivery
         actions:
-          - label: Order Now
+          - label: Get in contact now
             url: /signup
             style: secondary
       - title: Integrated Solution
