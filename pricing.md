@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Integrated Solution
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $ 80 / hour
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
