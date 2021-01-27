@@ -14,7 +14,7 @@ sections:
           *   Have a PoC in a few days
           *   Test your idea before invest a huge budget
           *   Necessary iterations until is as you like
-          *   Cloud based delivery
+          *   Cloud-based delivery
         actions:
           - label: Order Now
             url: /signup
