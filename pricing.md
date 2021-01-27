@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Proof of Concept
-        subtitle: For small businesses
+        subtitle: Test if your idea is feasible
         price: $ 99 / hour
         details: |-
           * Lorem ipsum dolor sit amet
