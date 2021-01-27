@@ -22,12 +22,10 @@ sections:
       - title: Integrated Solution
         subtitle: Enhance your product with AI
         price: $ 80 / hour
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Integrate Computer Vision into your solution
+          *   Several frameworks available
+          *   Have an entire team of ML Engineers and POs
         highlight: true
         actions:
           - label: Order Now
