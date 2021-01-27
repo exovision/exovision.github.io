@@ -69,7 +69,7 @@ sections:
       Tell us your problem and we are going to propose a solution based in our
       expertise.
     actions:
-      - label: Get Started
+      - label: Request now
         url: /signup
         style: primary
   - section_id: recent-posts
