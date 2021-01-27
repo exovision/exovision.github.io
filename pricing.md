@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: Full Custom
-        subtitle: For very large businesses
+        subtitle: Build a solution from scratch
         price: Request a quotation
         details: |-
           * Vestibulum non eros quis
