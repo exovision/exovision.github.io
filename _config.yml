@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: blue
 header:
-  logo_img: images/exologo2.png
+  logo_img: images/wonderful-mint.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
