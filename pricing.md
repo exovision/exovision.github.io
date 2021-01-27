@@ -28,7 +28,7 @@ sections:
           *   Have an entire team of ML Engineers and POs
         highlight: true
         actions:
-          - label: Order Now
+          - label: Get in contact now
             url: /signup
             style: primary
       - title: Full Custom
