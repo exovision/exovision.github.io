@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-10-02'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
+image: images/cover.png
 image_alt: A group of people working in a cafe
 layout: post
 title: >-
