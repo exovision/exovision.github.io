@@ -8,7 +8,7 @@ date: '2021-10-02'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/cover.png
-image_alt: A group of people working in a cafe
+image_alt: coke cola bottles defect artificial intelligence
 layout: post
 title: >-
   O impacto da inteligência artificial no setor de controle de qualidade de
