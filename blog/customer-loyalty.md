@@ -1,5 +1,5 @@
 ---
-subtitle: Como a IA vem impactando a industria
+subtitle: Como a IA vem impactando a indústria
 author: _data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
