@@ -1,7 +1,4 @@
 ---
-title: >-
-  O impacto da inteligência artificial no setor de controle de qualidade de
-  produtos
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
