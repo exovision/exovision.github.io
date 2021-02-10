@@ -20,9 +20,6 @@ header:
     - label: Pricing
       url: /pricing
       style: link
-    - label: Contact
-      url: /signup
-      style: primary
     - label: lorem-ipsum
       url: lorem-ipsum
       style: link
@@ -32,6 +29,9 @@ header:
       new_window: false
       no_follow: false
       type: action
+    - label: Contact
+      url: /signup
+      style: primary
 footer:
   sections:
     - type: footer_text
