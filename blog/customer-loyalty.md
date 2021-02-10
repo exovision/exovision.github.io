@@ -11,7 +11,7 @@ image: images/3.jpg
 image_alt: A group of people working in a cafe
 layout: post
 title: >-
-  # O impacto da inteligência artificial no setor de controle de qualidade de
+  O impacto da inteligência artificial no setor de controle de qualidade de
   produtos
 ---
 A Inteligência Artificial vem revolucionando a indústria nos últimos anos e resolvendo problemas, que antes eram onerosos em tempo e dinheiro, de maneira muito mais eficaz. Problemas de visão computacional, processamento de linguagem natural e diversas outras aplicações só são possíveis graças aos diversos avanços na área.
