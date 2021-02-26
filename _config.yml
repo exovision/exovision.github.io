@@ -120,3 +120,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://square-potato-08110.netlify.app'
