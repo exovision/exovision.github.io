@@ -6,7 +6,7 @@ sections:
     image_alt: App preview
     title: See outside the box
     content: |
-      Exovision will help you outperform humans using Computer Vision solutions
+      Exovision will help you outperform humans using Computer Vision solutions.
     actions:
       - label: Learn More
         url: /features
